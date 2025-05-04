@@ -5,6 +5,7 @@ import { arraysMethods } from "./challenges/arraysOps.js";
 import { presentacion } from "./challenges/objetos.js";
 import { evaluar } from "./challenges/condicionales.js";
 import { mostrarElementos } from "./challenges/iterationsFor.js";
+import{duplicarNumeros} from "./challenges/iterationFor2.js"
 
 introduce("carlos", 39);
 operaciones(34234, 453245);
@@ -22,3 +23,6 @@ evaluar(2)
 
 //llamado funcion mostrarElementos de challenges/iterations
 mostrarElementos([1,2,3,4,5,6])
+
+//llamado funcion duplicarNumeros de challenges/iterationFor.js
+duplicarNumeros([234,456,6767,78])
