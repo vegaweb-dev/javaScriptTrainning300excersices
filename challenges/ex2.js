@@ -4,9 +4,10 @@
 const operaciones = (num1, num2) => {
   let suma = num1 + num2;
   let resta = num1 - num2;
-  let multiplicación = num1 * num2;
-  console.log(`el resultado de la suma es ${suma} y el resultado de la resta es ${resta}`)
-  return(suma,resta,multiplicación)
+  let multiplicacion = num1 * num2;
+  let division = num1/num2
+  console.log(`el resultado de la suma es ${suma} y el resultado de la resta es ${resta}, el resultado de la multiplicacion es ${multiplicacion} el resultado de la division es ${division}`)
+  return(suma,resta,multiplicacion,division)
 };
 
 export {operaciones}
