@@ -8,6 +8,7 @@ import { mostrarElementos } from "./challenges/iterationsFor.js"
 import{duplicarNumeros} from "./challenges/iterationFor2.js"
 import{filterEverNumbers} from "./challenges/ex4FilterArray.js"
 import {sumarElementos} from "./challenges/ex5AddArrayElements.js"
+import {countVouels} from "./challenges/ex6CountVowels.js"
 introduce("carlos", 39);
 operaciones(34234, 453245);
 funcionEdad(34);
@@ -33,3 +34,6 @@ filterEverNumbers()
 
 //Llamado de la funcion sumarElementos
 sumarElementos([1,2])
+
+//Llamado de la funcion countVouels
+countVouels("rr")
