@@ -1,4 +1,4 @@
-const countVouels = (anyString) => {
+const countVowels = (anyString) => {
   const arrayReturnedByMatch = anyString.match(/[AaEeIiOoUu]/g);
   console.log(arrayReturnedByMatch);
   const response = arrayReturnedByMatch
@@ -8,4 +8,4 @@ const countVouels = (anyString) => {
   return response;
 };
 
-export { countVouels };
+export { countVowels };
