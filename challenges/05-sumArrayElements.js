@@ -1,4 +1,4 @@
-// Crea una función llamada sumarElementos que reciba un arreglo de números y devuelva la suma de todos sus elementos.
+// Create a function called sumarElementos that receives an array of numbers and returns the sum of all its elements.
 const sumarElementos = (arr) => {
   let returnedValue = 0;
   for (let i = 0; i < arr.length; i++) {

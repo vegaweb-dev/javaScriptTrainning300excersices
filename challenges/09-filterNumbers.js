@@ -1,4 +1,6 @@
-// Crea una función llamada filtrarPares que reciba un arreglo de números y devuelva un nuevo arreglo con solo los números pares.
+// Create a function called `filtrarPares` that receives an array of numbers
+// and returns a new array containing only the even numbers.
+
 
 //Solution 1. This is simpler since it creates the array and fills it out with even numbers at the same time for more efficiency
 /*const filterEverNumbers = () => {

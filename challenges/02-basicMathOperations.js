@@ -1,6 +1,6 @@
-// Declara dos variables llamadas num1 y num2 con valores numéricos.
-// Calcula la suma, la resta, la multiplicación y la división de esas dos variables.
-// Imprime cada resultado en una línea diferente usando console.log().
+// Declare two variables called num1 and num2 with numeric values.
+// Calculate the sum, subtraction, multiplication, and division of those two variables.
+// Print each result on a different line using console.log().
 const operaciones = (num1, num2) => {
   let suma = num1 + num2;
   let resta = num1 - num2;

@@ -1,9 +1,9 @@
-// Crea un objeto llamado persona que tenga las siguientes propiedades:
-// nombre (con tu nombre)
-// edad (tu edad)
-// Crea una función que reciba este objeto y imprima en consola lo siguiente:
+// Create an object called `persona` with the following properties:
+// nombre (with your name)
+// edad (your age)
+// Create a function that receives this object and prints the following to the console:
 // "Mi nombre es [nombre] y tengo [edad] años."
-// Ejemplo de salida:
+// Example output:
 // "Mi nombre es Carlos y tengo 25 años."
 
 

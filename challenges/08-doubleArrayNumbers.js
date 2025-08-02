@@ -1,4 +1,5 @@
-// Crea una función llamada duplicarNumeros que reciba un arreglo de números y devuelva un nuevo arreglo con cada número duplicado.
+// Create a function called `duplicarNumeros` that receives an array of numbers
+// and returns a new array with each number duplicated.
 
 const duplicarNumeros = (arreglo) => {
   const copiaArregloElementosDuplicados = []
@@ -12,6 +13,5 @@ const duplicarNumeros = (arreglo) => {
 
   return {arregloOriginal, arregloFinal}
 };
-
 
 export {duplicarNumeros}
