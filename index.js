@@ -9,7 +9,7 @@ import { duplicarNumeros } from "./challenges/08-doubleArrayNumbers.js";
 import { filterEverNumbers } from "./challenges/09-filterNumbers.js";
 import { arraysMethods } from "./challenges/10-updateArrayWithPushPopShiftUnshift.js";
 import { evaluar } from "./challenges/11-conditionals.js";
-
+import { isPalindrom } from "./challenges/12-conditionals.js";
 //01-helloNameAndAge
 introduce("carlos", 39);
 
@@ -45,3 +45,6 @@ arraysMethods([10, 20, 30, 40, 50]);
 
 //11-conditionals
 evaluar(2);
+
+//12-conditionals
+isPalindrom("ana");
